@@ -10,6 +10,7 @@ you can check my repository and kindly don't forget to start ⭐ any repository 
 ## Github Stats & Top Languages
 
 ![Muhammed's github stats](https://github-readme-stats.vercel.app/api?username=osclancer&show_icons=true&theme=material-palenight&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osclancer&hide=html,css&layout=compact&theme=material-palenight)](https://github.com/osclancer/osclancer)
 
 
 - 🔭 I’m currently working on [Promoclicks](https://promoclicks.net)
