@@ -9,8 +9,7 @@ you can check my repository and kindly don't forget to start ⭐ any repository 
 
 ## Github Stats & Top Languages
 
-[![Muhammed's github stats](https://github-readme-stats.vercel.app/api?username=osclancer)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osclacner)](https://github.com/anuraghazra/github-readme-stats)
+![Muhammed's github stats](https://github-readme-stats.vercel.app/api?username=osclancer&show_icons=true&theme=material-palenight&count_private=true)
 
 
 - 🔭 I’m currently working on [Promoclicks](https://promoclicks.net)
