@@ -13,5 +13,5 @@ you can check my repositories and kindly don't forget to start ⭐ any repositor
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osclancer&hide=html,css&layout=compact&theme=material-palenight)](https://github.com/osclancer/osclancer)
 
 
-- 🔭 I’m currently working on [Promoclicks](https://promoclicks.net)
+- 🔭 I’m currently working on [promoclicks](https://promoclicks.net) as a web developer
 - 💬 Ask me about anything you want and it will be my pleasure to help you if i can.
