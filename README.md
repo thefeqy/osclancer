@@ -11,7 +11,7 @@ you can check my repositories and kindly don't forget to start ⭐ any repositor
 ## &#x1f4c8; Github Stats & Top Languages
 
 ![Muhammed's github stats](https://github-readme-stats.vercel.app/api?username=osclancer&show_icons=true&theme=material-palenight&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osclancer&hide=html,css&layout=compact&theme=material-palenight)](https://github.com/osclancer/osclancer)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osclancer&hide=html,css&layout=compact&theme=material-palenight&layout=compact)](https://github.com/osclancer/osclancer)
 
 
 - 🔭 I’m currently working on [promoclicks](https://promoclicks.net) as a web developer
