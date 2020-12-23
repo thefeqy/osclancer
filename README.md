@@ -4,7 +4,10 @@
 <!--
 **osclancer/osclancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-It's Muhammed elfeqy from Egypt, a web developer that has a passion in the technical field in general, specialized in web development, I always do my best in my code and try to use the full capabilities of the programming language or the framework that I want to use
+It's Muhammed elfeqy from Egypt, An ambitious problem solver with a passion for online businesses, I have much experience of creating logical and innovative solutions to complex problems. I
+have a keen interest in technology, problem solving, and have the ability to learn any new technologies that fit the businesses needs.
+As someone who takes responsibility for my own personal development and a fast learner, I’m continually evaluating and upgrading my skills so that I stay at
+the cutting edge of web development. 
 
 you can check my repositories and kindly don't forget to start ⭐ any repository while finding it's helpful for you
 
