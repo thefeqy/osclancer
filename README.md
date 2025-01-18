@@ -1,41 +1,45 @@
 
-### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**thefeqy/thefeqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-It's Muhammed elfeqy from Egypt, An ambitious problem solver with a passion for online businesses, I have much experience of creating logical and innovative solutions to complex problems. I
-have a keen interest in technology, problem solving, and have the ability to learn any new technologies that fit the businesses needs.
-As someone who takes responsibility for my own personal development and a fast learner, I’m continually evaluating and upgrading my skills so that I stay at
-the cutting edge of web development. 
 
-you can check my repositories and kindly don't forget to start ⭐ any repository while finding it's helpful for you
+<h2 align="center">Software Engineer | PHP Developer</h2>
 
-## &#x1f4c8; Github Stats & Top Languages
+  <p align="center"> <!-- Google Me -->
+    <a href="https://www.google.com.eg/search?q=Muhammed+Elfeqy">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Follow+for+more+technical+content" alt="Typing SVG" />
+    </a>
+  </p>
 
-![Muhammed's github stats](https://github-readme-stats.vercel.app/api?username=thefeqy&show_icons=true&theme=material-palenight&count_private=true)
+  <p align="center">
+    <a href="https://www.linkedin.com/in/thefeqy">
+        <img src="https://img.shields.io/badge/LinkedIn-0060A0?style=for-the-badge&logo=linkedin&logoColor=white" height="34"/>
+    </a>
+    <a href="https://x.com/thefeqy">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="34"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=thefeqy" height="34"/>
+  </p>
 
-- 🔭 I’m currently working on IconDigital as a Backend engineer
-- 💬 Ask me about anything you want and it will be my pleasure to help you if i can.
 
-### 🔧 Technologies & Tools
+<h3 align="left">🚀 About Me:</h3>
 
-![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&logoColor=white&color=F0DB4F)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=3c873a)
-![](https://img.shields.io/badge/Code-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=E0234E)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=AEB2D5) ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=333333) ![](https://img.shields.io/badge/Code-LARAVEL-informational?style=flat&logo=laravel&logoColor=white&color=F05340) ![](https://img.shields.io/badge/VC-Git-informational?style=flat&logo=git&logoColor=white&color=F1502F) ![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=61dbfb) ![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=next.js&logoColor=white&color=05427c)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=F29111)
-![](https://img.shields.io/badge/DB-Postgres-informational?style=flat&logo=postgresql&logoColor=white&color=0064a5)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4DB33D)
+My name is Muhammed Elfeqy, an ambitious software engineer from Egypt with a passion for technology, problem-solving, and online businesses. With over five years of professional experience in crafting innovative and logical solutions to complex challenges, I specialize in developing cutting-edge web applications and seamless backend systems.
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+you can check my repositories and don't forget to start ⭐ any repository you find helpful.
 
-<!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+<h3 align="left">🛠️ Languages & Tools:</h3>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,typescript,nodejs,react,nextjs,tailwindcss,git,mongodb,&perline=10"/>
+  </p>
 
-<!-- Links to your social media accounts -->
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="left">
+    <img src="https://github-profile-trophy.vercel.app/?username=thefeqy&theme=onestar&row=1&column=7"/>
+</p>
 
-[1]: https://twitter.com/thefeqy
-[2]: https://www.linkedin.com/in/thefeqy
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thefeqy&layout=compact&langs_count=5&theme=codeSTACKr"/>
+    <!-- Snake -->
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
