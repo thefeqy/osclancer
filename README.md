@@ -29,9 +29,19 @@ you can check my repositories and don't forget to start ⭐ any repository you f
 
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,typescript,nodejs,react,nextjs,tailwindcss,git,mongodb,&perline=10"/>
-  </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,typescript,nodejs,react,nextjs,tailwindcss,git,mongodb,&perline=10"/>
+</p>
+
+<h3 align="left">✒️ Latest Articles:</h3>
+<p align="left">
+  <ul>
+    <li><a href"https://dev.to/thefeqy/a-practical-guide-to-using-reactjs-with-inertiajs-2-and-laravel-11-4adc">A Practical Guide to Using ReactJS with Inertia.js 2 and Laravel 11</a></li>
+    <li><a href"https://dev.to/thefeqy/streamlining-laravel-projects-with-laravel-model-status-1mae">Streamlining Laravel Projects with Laravel Model Status</a></li>
+    <li><a href"https://thefeqy.hashnode.dev/observers-in-laravel-simplifying-model-event-handling-with-real-world-examples">Observers in Laravel: Simplifying Model Event Handling With Real-World Examples</a></li>
+    <li><a href"https://thefeqy.hashnode.dev/use-laravels-eloquent-traits-to-avoid-code-duplication">Use laravel's eloquent traits to avoid code duplication</a></li>
+  </ul>
+</p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="left">
