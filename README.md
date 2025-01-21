@@ -34,14 +34,11 @@ you can check my repositories and don't forget to start ⭐ any repository you f
 </p>
 
 <h3 align="left">✒️ Latest Articles:</h3>
-<p align="left">
-  <ul>
-    <li><a href"https://dev.to/thefeqy/a-practical-guide-to-using-reactjs-with-inertiajs-2-and-laravel-11-4adc">A Practical Guide to Using ReactJS with Inertia.js 2 and Laravel 11</a></li>
-    <li><a href"https://dev.to/thefeqy/streamlining-laravel-projects-with-laravel-model-status-1mae">Streamlining Laravel Projects with Laravel Model Status</a></li>
-    <li><a href"https://thefeqy.hashnode.dev/observers-in-laravel-simplifying-model-event-handling-with-real-world-examples">Observers in Laravel: Simplifying Model Event Handling With Real-World Examples</a></li>
-    <li><a href"https://thefeqy.hashnode.dev/use-laravels-eloquent-traits-to-avoid-code-duplication">Use laravel's eloquent traits to avoid code duplication</a></li>
-  </ul>
-</p>
+
+- [https://dev.to/thefeqy/a-practical-guide-to-using-reactjs-with-inertiajs-2-and-laravel-11-4adc](A Practical Guide to Using ReactJS with Inertia.js 2 and Laravel 11)
+- [https://dev.to/thefeqy/streamlining-laravel-projects-with-laravel-model-status-1mae](Streamlining Laravel Projects with Laravel Model Status)
+- [https://thefeqy.hashnode.dev/observers-in-laravel-simplifying-model-event-handling-with-real-world-examples](Observers in Laravel: Simplifying Model Event Handling With Real-World Examples)
+- [https://thefeqy.hashnode.dev/use-laravels-eloquent-traits-to-avoid-code-duplication](Use laravel's eloquent traits to avoid code duplication)
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="left">
